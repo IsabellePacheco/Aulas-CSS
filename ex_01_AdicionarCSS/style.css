@@ -1,3 +1,13 @@
+/* usando CSS externo  */
 h1{
     color: blueviolet;
+}
+h2{
+    color:deeppink;
+    font-size:50px   
+    /* ajusta a tamanha da letra */
+}
+p{
+    color:mediumblue;
+    font-size:20px;
 }
