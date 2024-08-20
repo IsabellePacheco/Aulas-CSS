@@ -1,0 +1,27 @@
+/* Adicionando CSS */
+/* Com celetro 'TAG' */
+h1{
+    color:crimson;
+    font-size: 20px;
+}
+p{
+    /* deixa em negrito */
+    font-weight: bold;
+}
+
+/* Adicionando CSS */
+/* com seletor "id" */
+/* ID nao pode ser compartilhado */
+#ideias{
+    color:dodgerblue;
+    font-weight: normal;
+
+}
+/* Adicionando CSS */
+/* com seletor 'calsse'*/
+.p-texto{
+    color: blue;
+    font-weight: normal;
+    
+}
+    
