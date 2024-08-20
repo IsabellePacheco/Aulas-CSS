@@ -1,0 +1,29 @@
+/* alterando cor por nome */
+.nome{
+    color:fuchsia;
+    background-color:beige;
+}
+/* alterando cor por hexadecimal / html color picker*/
+.hexadecimal{
+    color: #90fc03;
+    background-color:#f5f5dc ;
+}
+/* alterando cor por rgba /transparencia da cor/http://hex2rgba.devoth.com/  */
+.rgba{
+    color:rgba(255, 0, 255, 0.87);
+    background-color: rgba(245, 245, 220, 0.87);
+}   
+
+/* alterando a segunda pagina */
+h1{
+    background-color:bisque;
+}
+.div-background{
+    background-image: url(images.jpg);
+    height: 8000px;
+    
+}
+.titulo-background{
+    color:black;
+    text-align: center;
+}
