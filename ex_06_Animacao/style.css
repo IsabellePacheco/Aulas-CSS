@@ -1,0 +1,68 @@
+@keyframes animacao{
+    front{background-color: deepskyblue;}
+    to{background-color:hotpink;}
+}
+
+@keyframes animacao2{
+    0%{}
+    30%{width: 100px;}
+    60%{background-color: firebrick;}
+    80%{left: 10px; background-color: blueviolet;}
+    100%{height: 200px;}
+}
+
+@keyframes animacao3{
+    front{background-color:violet}
+    to{background-color:dodgerblue}
+}
+
+@keyframes animacao4{
+    0%{}
+    30%{width: 100px;}
+    60%{background-color: firebrick;}
+    80%{left: 10px; background-color:lightpink;}
+    100%{height: 200px;}
+}
+
+
+.animation-div{
+    width: 300px;
+    height: 100px;
+    background-color: deepskyblue;
+    animation-name: animacao;
+    animation-duration: 5s;
+}
+
+.animation-div2{
+    width: 300px;
+    height: 100px;
+    background-color: darkturquoise;
+    animation-name: animacao2;
+    animation-duration: 5s;
+    /* positin para mover na tela */
+    position: relative;
+}
+
+.animation-div3{
+    width: 300px;
+    height: 100px;
+    background-color:chartreuse;
+    animation-name: animacao3;
+    animation-duration: 5s;
+    /* positin para mover na tela */
+    position: relative;
+    /* tempo de espera */
+    animation-delay: 2s;
+}
+
+.animation-div4{
+    width: 300px;
+    height: 100px;
+    background-color:gold;
+    animation-name: animacao4;
+    animation-duration: 5s;
+    /* positin para mover na tela */
+    position: relative;
+    /* repetição */
+    animation-iteration-count: 3;
+}
