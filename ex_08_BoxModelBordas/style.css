@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+}
+.boxmodel{
+    /* so muda o conteúdo */
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+    /* espaço depois do conteúdo " */
+    padding: 30px 30px;
+    /* borda-espeçura- */
+    /* tipos- sited-linha */
+    /* dashed-linhas separadas */
+    /* dotted-pontinhos  */
+    border: 3px dashed orchid;
+    /* uma borda diferente  */
+    border-left: 15px dotted  greenyellow;
+    border-right-style: double;
+    /* deixar a borda redonda*/
+    border-radius: 50px;
+    /* margem cima/baixo */
+    /* adiciona espaço */
+    margin: 30px;
+    /* se tirar o margin ele tira o espaço, juntando os quadrados */
+}
