@@ -8,4 +8,7 @@
 - Arquivo CSS- Animação
 - Arquivo CSS- Animação por tempo
 - Arquivo CSS- Bordey padding e margin
-- Arquivo CSS- Psition Static
+- Arquivo CSS- Posição Estática
+- Arquivo CSS- Posição Relativa
+- Arquivo CSS- Posição Absoluta
+- Arquivo CSS- Posição Fixa
