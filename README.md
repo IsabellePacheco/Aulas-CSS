@@ -6,4 +6,5 @@
 - Arquivo CSS- classe E id
 - Arquivo CSS- Modo cores
 - Arquivo CSS- Animação
-- Arquivo CSS- Animação por tempo 
+- Arquivo CSS- Animação por tempo
+- Aiquivo CSS- Bordey padding e margin
