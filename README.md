@@ -7,4 +7,5 @@
 - Arquivo CSS- Modo cores
 - Arquivo CSS- Animação
 - Arquivo CSS- Animação por tempo
-- Aiquivo CSS- Bordey padding e margin
+- Arquivo CSS- Bordey padding e margin
+- Arquivo CSS- Psition Static
