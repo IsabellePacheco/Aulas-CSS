@@ -11,4 +11,4 @@
 - Arquivo CSS- Posição Estática
 - Arquivo CSS- Posição Relativa
 - Arquivo CSS- Posição Absoluta
-- Arquivo CSS- Posição Fixa
+- Arquivo CSS-  Posição Fixa
